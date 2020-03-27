@@ -3,14 +3,11 @@
 
 ![diagram](https://pirun.ku.ac.th/~archsds/01/wp-content/uploads/2020/03/2020-03-27_14-12-19-785x284.jpg)
 
-คำแนะนำการใช้งาน
+###คำแนะนำการใช้งาน
 1. การ update ข้อมูลดำเนินการโดยอัตโนมัติเมื่อเปิดโปรแกรม และ update ทุก ๆ 60 นาที
 2. การ update ข้อมูลแบบ Manual ให้เปิด File ไปที่ Ribbon "Data" จากนั้น "Refresh All"  
 
 สร้างโดย Microsoft Excel for Microsoft Office 360 64-bit
-
-Instruction
-Goto "Data" then "Refresh All"
 
 >Note
 >1. Data sources from  https://github.com/CSSEGISandData/COVID-19
