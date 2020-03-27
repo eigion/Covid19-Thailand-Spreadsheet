@@ -1,5 +1,12 @@
 # Covit19-Thailand-Spreadsheet
-Excel spreadsheet for display Thailand coronavirus cases Data & Chart
+ตาราง spreadsheet โปรแกรม Microsoft Excel เชื่อมต่อข้อมูล จาก CSSEGISandData ของ CSSE at Johns Hopkins University (https://systems.jhu.edu/) โดยตารางจะทำการ update ข้อมูลรายวันจาก GitHub CSSEGISandData ผ่าน Power Query โดยอัตโนมัติ
+
+
+คำแนะนำการใช้งาน
+1. การ update ข้อมูลดำเนินการโดยอัตโนมัติเมื่อเปิดโปรแกรม และ update ทุก ๆ 60 นาที
+2. การ update ข้อมูลแบบ Manual ให้เปิด File ไปที่ Ribbon "Data" จากนั้น "Refresh All"  
+
+สร้างโดย Microsoft Excel for Microsoft Office 360 64-bit
 
 Instruction
 Goto "Data" then "Refresh All"
