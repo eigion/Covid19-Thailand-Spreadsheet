@@ -1,5 +1,5 @@
 # Covit19-Thailand-Spreadsheet
-Excel spreadsheet for display Thailand coronavirus cases chart
+Excel spreadsheet for display Thailand coronavirus cases Data & Chart
 
 Instruction
 Goto "Data" then "Refresh All"
